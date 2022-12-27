@@ -5,53 +5,34 @@
   "links": [
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://bit.ly/3hNZNlD",
       "icon": "linkedin"
     },
     {
+      "title": "Medium",
+      "url": "https://bit.ly/3hYaOR9",
+      "icon": "medium"
+    }
+    {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://bit.ly/3hWvBEP",
       "icon": "github"
     },
     {
-      "title": "Twitter",
-      "url": "http://bit.ly/3YJe7wf",
-      "icon": "twitter"
-    },
-    {
       "title": "Buy me a coffee",
-      "url": "http://bit.ly/3FRuBcV",
+      "url": "https://bit.ly/3IcRmL8",
       "icon": "mug"
     },
     {
+      "title": "Twitter",
+      "url": "https://bit.ly/3WsYI1q",
+      "icon": "twitter"
+    },
+    {
       "title": "Instagram",
-      "url": "http://bit.ly/3WkjGQh",
+      "url": "https://bit.ly/3jwS6AI",
       "icon": "instagram"
     },
-    {
-      "title": "Medium",
-      "url": "http://bit.ly/3I1ZYnV",
-      "icon": "medium"
-    },
-    {
-      "title": "Youtube",
-      "url": "http://bit.ly/3Gek9h3",
-      "icon": "youtube"
-    },
-    {
-      "title": "Side Project",
-      "url": "http://bit.ly/3hNX2AK",
-      "icon": "link"
-    },
-    {
-      "title": "LeetCode",
-      "url": "http://bit.ly/3hSebcj",
-      "icon": "click"
-    },
-    {
-      "title": "Spotify",
-      "url": "http://bit.ly/3BZcxfT",
-      "icon": "spotify"
-    }
+
   ]
 }
